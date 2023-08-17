@@ -1,0 +1,124 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "eng": "Yes",
+            "han": "Ja",
+            "pin": "Yes"
+        },
+        {
+            "id": 2,
+            "eng": "No",
+            "han": "Nein",
+            "pin": "No"
+        },
+        {
+            "id": 3,
+            "eng": "Please",
+            "han": "Bitte",
+            "pin": "Please"
+        },
+        {
+            "id": 4,
+            "eng": "Thank you",
+            "han": "Danke",
+            "pin": "Thank you"
+        },
+        {
+            "id": 5,
+            "eng": "Monday",
+            "han": "Montag",
+            "pin": "Monday"
+        },
+        {
+            "id": 6,
+            "eng": "Hello",
+            "han": "Hallo",
+            "pin": "Hello"
+        },
+        {
+            "id": 7,
+            "eng": "Tuesday",
+            "han": "Dienstag",
+            "pin": "Tuesday"
+        },
+        {
+            "id": 8,
+            "eng": "Good day",
+            "han": "Guten Tag",
+            "pin": "Good day"
+        },
+        {
+            "id": 9,
+            "eng": "Wednesday",
+            "han": "Mittwoch",
+            "pin": "Wednesday"
+        },
+        {
+            "id": 10,
+            "eng": "Who?",
+            "han": "Wer?",
+            "pin": "Who?"
+        },
+        {
+            "id": 11,
+            "eng": "Where?",
+            "han": "Woher?",
+            "pin": "Where?"
+        },
+        {
+            "id": 12,
+            "eng": "love",
+            "han": "Liebe",
+            "pin": "Love"
+        },
+        {
+            "id": 13,
+            "eng": "Bye",
+            "han": "Tschüss",
+            "pin": "Bye"
+        },
+        {
+            "id": 14,
+            "eng": "already",
+            "han": "schön",
+            "pin": "already"
+        },
+        {
+            "id": 15,
+            "eng": "Deutschland",
+            "han": "Germany",
+            "pin": "Deutschland"
+        },
+        {
+            "id": 16,
+            "eng": "German",
+            "han": "Deutscher",
+            "pin": "German"
+        },
+        {
+            "id": 17,
+            "eng": "Happiness",
+            "han": "Gluck",
+            "pin": "Happiness"
+        },
+        {
+            "id": 18,
+            "eng": "Cat",
+            "han": "Katze",
+            "pin": "Cat"
+        },
+        {
+            "id": 19,
+            "eng": "Dog",
+            "han": "Hund",
+            "pin": "Dog"
+        },
+        {
+            "id": 20,
+            "eng": "Smile",
+            "han": "Lacheln",
+            "pin": "Smile"
+        }
+    ]
+}
